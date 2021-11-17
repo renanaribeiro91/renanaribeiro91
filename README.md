@@ -1,7 +1,7 @@
 ## Olá, me chamo Renan Ribeiro ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-![share_temp_poseA](https://user-images.githubusercontent.com/69402932/142280071-4d66b95a-4e57-4bc9-a1cf-7a2820801928.png   width="200" height="200" />)
+![share_temp_poseA](https://user-images.githubusercontent.com/69402932/142280071-4d66b95a-4e57-4bc9-a1cf-7a2820801928.png"   width="200" height="200" />)
 
 ### Estou aprendendo
 
