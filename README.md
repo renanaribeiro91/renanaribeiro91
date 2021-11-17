@@ -14,6 +14,9 @@
 </div>
 
 <div class="tenor-gif-embed" data-postid="4903969" data-share-method="host" data-aspect-ratio="1.66667" data-width="100%"><a href="https://tenor.com/view/typing-jim-carrey-fast-busy-gif-4903969">Typing Jim Carrey GIF</a>from <a href="https://tenor.com/search/typing-gifs">Typing GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</div>
+
+
 
 ![share_temp_poseA](https://user-images.githubusercontent.com/69402932/142280071-4d66b95a-4e57-4bc9-a1cf-7a2820801928.png)
 
