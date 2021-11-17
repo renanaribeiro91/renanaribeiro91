@@ -13,11 +13,11 @@
 <a href="https://www.linkedin.com/in/renanaribeiro91/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![imagem14](https://user-images.githubusercontent.com/69402932/142282121-11f27e60-8f09-4b0d-9245-84c852405376.gif)
+![imagem14](https://user-images.githubusercontent.com/69402932/142282121-11f27e60-8f09-4b0d-9245-84c852405376.gif) ![share_temp_poseA](https://user-images.githubusercontent.com/69402932/142280071-4d66b95a-4e57-4bc9-a1cf-7a2820801928.png)
 
 
 
-![share_temp_poseA](https://user-images.githubusercontent.com/69402932/142280071-4d66b95a-4e57-4bc9-a1cf-7a2820801928.png)
+
 
 
 
